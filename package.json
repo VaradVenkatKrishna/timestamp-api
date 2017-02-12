@@ -1,0 +1,17 @@
+{
+  "name": "varada-api",
+  "version": "1.0.0",
+  "description": "First api app",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"npm test\""
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Varada",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
